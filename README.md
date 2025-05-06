@@ -43,8 +43,6 @@ Atualmente, estou em busca de minha primeira oportunidade na área de cibersegur
 ## 📫 Como me encontrar
 
 - <a href="https://linkedin.com/in/pedro-henrique-cardoso-pereira"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- E-mail: pedrohcp100@gmail.com  
-
 
 ---
 
